@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/devbox-zero-ops/agent-skills)](https://skills.sh/devbox-zero-ops/agent-skills)
 
-Five production-tested, **zero-dependency** Agent Skills built for **Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenClaw** — install every skill directly via [`skills.sh`](https://skills.sh) or browse our [Agensi.io Creator Profile](https://www.agensi.io/creators/devbox-zeroops).
+Six production-tested, **zero-dependency** Agent Skills built for **Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenClaw** — install every skill directly via [`skills.sh`](https://skills.sh) or browse our [Agensi.io Creator Profile](https://www.agensi.io/creators/devbox-zeroops).
 
 ```bash
 npx skills add devbox-zero-ops/agent-skills
@@ -17,6 +17,8 @@ npx skills add devbox-zero-ops/agent-skills
 | [`primary-source-research`](skills/primary-source-research/SKILL.md) | Python 3.8+ (stdlib) | Research & Analysis | Direct zero-API-key queries across 22 official primary sources (FRED, US Treasury, ECB FX, World Bank, SEC EDGAR, OpenFDA, NIH ClinicalTrials, USGS, arXiv, GitHub/PyPI/npm, DefiLlama, etc.) |
 | [`llm-cost-optimizer`](skills/llm-cost-optimizer/SKILL.md) | Python 3.8+ (stdlib, 100% offline) | LLM Ops | 14-model LLM API cost estimator with prompt caching math, local prompt bloat auditor (`UNMINIFIED_JSON`, duplicate lines), and subscription break-even calculator |
 | [`changeproof-auditor`](skills/changeproof-auditor/SKILL.md) | Node.js 18+ (`node:crypto`, 100% offline) | Compliance & DevOps | Regulated change-control engine for FDA 21 CFR Part 11, ISO 13485 & AS9100D: FMEA RPN scoring, proposer/QA separation-of-duties guard, SHA-256 tamper-evident ledger & inspector-ready dossiers |
+
+| [`verimesh-auditor`](skills/verimesh-auditor/SKILL.md) | Node.js 18+ (built-in `fetch`) | Open Agentic Web & Trust | Audits any Open Agentic Website against Worldwide Agentic Web MVP Profile 0.3 (`agent-manifest.json`, Neuro SAN `.network.json`, `peer_policy`, `.well-known/nsdeploy.json`) |
 
 ## Live Marketplace Listings (Agensi.io)
 
