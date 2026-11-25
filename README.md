@@ -34,6 +34,8 @@ npx skills add devbox-zero-ops/agent-skills
 - **Full 8-Tool White-Label Source Bundle (MIT / Commercial):** https://devbox-zero-ops.github.io/xiaheai-hub/pro.html
 - **Atlassian Forge + Rovo MCP App (`ChangeProof MCP`):** https://github.com/devbox-zero-ops/changeproof-mcp
 
+- **Engineering Walkthrough (Dev.to):** https://dev.to/devboxzeroops/5-zero-dependency-agent-skills-built-on-python-stdlib-nodejs-built-ins-v110-3ep0
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
