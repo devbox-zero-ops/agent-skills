@@ -1,5 +1,8 @@
 # DevBox ZeroOps — Agent Skills Collection (`SKILL.md`)
 
+
+[![skills.sh](https://skills.sh/b/devbox-zero-ops/agent-skills)](https://skills.sh/devbox-zero-ops/agent-skills)
+
 Four production-tested, **zero-dependency** Agent Skills built for **Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenClaw** — install any skill directly via [`skills.sh`](https://skills.sh) or download from [Agensi.io](https://www.agensi.io/skills/quant-radar-perp-funding-polymarket-arbitrage).
 
 ```bash
@@ -24,3 +27,11 @@ npx skills add devbox-zero-ops/agent-skills
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Live Marketplace Listings (Agensi.io)
+
+- **Creator Profile:** https://www.agensi.io/creators/devbox-zeroops
+- **Quant Radar:** https://www.agensi.io/skills/quant-radar-perp-funding-polymarket-arbitrage
+- **WalletWatch:** https://www.agensi.io/skills/walletwatch-multi-chain-usdt-usdc-sol-monitor
+- **Primary Source Research:** https://www.agensi.io/skills/primary-source-research-22-zero-key-official-apis
+- **LLM Cost Optimizer:** https://www.agensi.io/skills/llm-cost-optimizer-prompt-cache-plan-break-even
