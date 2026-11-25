@@ -25,7 +25,7 @@ npx skills add devbox-zero-ops/agent-skills
 - **WalletWatch:** https://www.agensi.io/skills/walletwatch-multi-chain-usdt-usdc-sol-monitor
 - **Primary Source Research:** https://www.agensi.io/skills/primary-source-research-22-zero-key-official-apis
 - **LLM Cost Optimizer:** https://www.agensi.io/skills/llm-cost-optimizer-prompt-cache-plan-break-even
-- **ChangeProof Compliance Auditor:** Submitted to Agensi.io (creator catalog: https://www.agensi.io/creators/devbox-zeroops)
+- **ChangeProof Compliance Auditor:** https://www.agensi.io/skills/changeproof-compliance-auditor-fda-iso-13485-as9100d
 
 ## Companion Tools & White-Label Pro Source Bundle
 
