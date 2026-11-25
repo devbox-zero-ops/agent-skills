@@ -28,6 +28,7 @@ npx skills add devbox-zero-ops/agent-skills
 - **Primary Source Research:** https://www.agensi.io/skills/primary-source-research-22-zero-key-official-apis
 - **LLM Cost Optimizer:** https://www.agensi.io/skills/llm-cost-optimizer-prompt-cache-plan-break-even
 - **ChangeProof Compliance Auditor:** https://www.agensi.io/skills/changeproof-compliance-auditor-fda-iso-13485-as9100d
+- **VeriMesh Open Agentic Web Auditor:** https://www.agensi.io/skills/verimesh-open-agentic-web-mvp-0-3-conformance-auditor
 
 ## Companion Tools & White-Label Pro Source Bundle
 
